@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS 10 Pro
+ Volume Serial Number is 9C33-E5DB
+
+ Directory of C:\Users\Tassadaq\Desktop\Iterative Binary Sreach
+
+11/25/2018  01:41 PM    <DIR>          .
+11/25/2018  01:41 PM    <DIR>          ..
+11/25/2018  01:41 PM                 0 IterativeBinarySearch.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,786,214,400 bytes free
